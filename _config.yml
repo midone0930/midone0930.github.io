@@ -43,7 +43,7 @@ theme_settings:
 
   # Scripts
   google_analytics: UA-113882009-1 # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname: disqus_toAA7R2naj
+  disqus_shortname: https-midone0930-github-io
   katex: true # Enable if using math markup
   search: true # Enable the search feature
 
