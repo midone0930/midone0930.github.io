@@ -79,7 +79,7 @@ sass:
   sass_dir: _sass
   style: :compressed
 plugins: [jekyll-paginate]
-theme: jekyll-theme-type
+remote_theme: rohanchandra/type-theme
 exclude:
   - Gemfile
   - Gemfile.lock
