@@ -79,6 +79,14 @@ pre,
 samp {
   margin: 1em 0;
 }
+/* edit -> */
+pre {
+  overflow: auto;
+  padding: 16px;
+  background-color: #f6f8fa;
+  border-radius: 3px;
+}
+/* <- edit */
 dt {
   font-weight: bold;
 }
